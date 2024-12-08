@@ -6,7 +6,7 @@ This project builds models to classify consumer opinions into **negative**, **ne
 - **SVM (LinearSVC)** (TF-IDF features)
 - **DistilBERT** (fine-tuned transformer)
 
-This code is part of a final project for the **TextMining** course.
+This code is part of a final project for the **TextMining** course, therefore comments and descriptions in the file are in polish language.
 
 ## Contents
 
