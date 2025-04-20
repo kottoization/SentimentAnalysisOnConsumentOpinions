@@ -2,9 +2,9 @@
 
 This project builds models to classify consumer opinions into **negative**, **neutral**, or **positive** sentiment. The following models are implemented:
 
+- **DistilBERT** (fine-tuned transformer)
 - **Logistic Regression** (TF-IDF features)
 - **SVM (LinearSVC)** (TF-IDF features)
-- **DistilBERT** (fine-tuned transformer)
 
 This code is part of a final project for the **TextMining** course, therefore comments and descriptions in the file are in polish language.
 
